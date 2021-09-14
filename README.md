@@ -25,14 +25,21 @@ MODBUS CLIENT + WEB APPLICATION
 
 3.	Le  API si trovano all’indirizzo http://locahost:8080/api/v1/client/
 
-3.1.	POST: api/v1/client/writeSingleRegister passare i valori ip, startingAddress e value
-3.2.	POST: api/v1/client/writeSingleCoil passare i valori ip, startingAddress e value
-3.3.	POST: api/v1/client/writeMultipleRegisters passare i valori ip, startingAddress e values
-3.4.	POST: api/v1/client/writeMultipleCoils passare i valori ip, startingAddress e values
-3.5.	GET:   api/v1/client/readInputRegister passare i valori  ip, startingAddress e quantity
-3.6.	GET:   api/v1/client/readHoldingRegister passare i valori  ip, startingAddress e quantity
-3.7.	GET:   api/v1/client/readDiscreteInput passare i valori  ip, startingAddress e quantity
-3.8.	GET:   api/v1/client/readCoils passare i valori  ip, startingAddress e quantity
+      3.1.	POST: api/v1/client/writeSingleRegister passare i valori ip, startingAddress e value
+
+      3.2.	POST: api/v1/client/writeSingleCoil passare i valori ip, startingAddress e value
+
+      3.3.	POST: api/v1/client/writeMultipleRegisters passare i valori ip, startingAddress e values
+
+      3.4.	POST: api/v1/client/writeMultipleCoils passare i valori ip, startingAddress e values
+
+      3.5.	GET:   api/v1/client/readInputRegister passare i valori  ip, startingAddress e quantity
+
+      3.6.	GET:   api/v1/client/readHoldingRegister passare i valori  ip, startingAddress e quantity
+
+      3.7.	GET:   api/v1/client/readDiscreteInput passare i valori  ip, startingAddress e quantity
+
+      3.8.	GET:   api/v1/client/readCoils passare i valori  ip, startingAddress e quantity
 
 
 
