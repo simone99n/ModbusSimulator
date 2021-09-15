@@ -19,7 +19,7 @@ pip install pymodbus
 5.	Il Simulatore Server Modbus è avviato!
 
 MODBUS CLIENT + WEB APPLICATION
-1.	Avviare da un ambiente di sviluppo Java il programma https://github.com/simone99n/ModbusSimulator/tree/main/Client/Client
+1.	Avviare da un ambiente di sviluppo Java il programma https://github.com/simone99n/ModbusSimulatorClient
 
 2.	Il Client Modbus e la Web Application sono avviati!
 
