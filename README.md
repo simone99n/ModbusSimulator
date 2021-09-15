@@ -1,4 +1,4 @@
-# ModbusSimulator
+# ModbusSimulatorClient
 
 GUIDA INSTALLAZIONE
 
@@ -14,7 +14,7 @@ sudo apt-get install python-pip
 3.	Installare da terminale la libreria pymodbus
 pip install pymodbus
 
-4.	Avviare il programma python “serverModbus.py” https://github.com/simone99n/ModbusSimulator/blob/main/Server/serverModbus.py
+4.	Avviare il programma python “serverModbus.py” https://github.com/simone99n/ModbusSimulatorServer.py
 
 5.	Il Simulatore Server Modbus è avviato!
 
